@@ -1,0 +1,9 @@
+{
+	"name": "sarojfactoryazureproject",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "4cbb9ef2-bd77-4930-afc2-93f7bdad5158",
+		"tenantId": "790ab49e-7ec6-4e1a-bc49-2e448970da30"
+	}
+}
